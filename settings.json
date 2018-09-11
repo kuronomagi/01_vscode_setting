@@ -1,0 +1,46 @@
+{
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "workbench.welcome.enabled": false,
+    "typescript.check.npmIsInstalled": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    // ESlint extension
+    "eslint.enable": true,
+    "eslint.nodePath": "C:\\Users\\sifue\\AppData\\Roaming\npm\\eslint",
+    "eslint.options": {
+        "parserOptions": {
+            "ecmaVersion": 6,
+            "sourceType": "module",
+            "ecmaFeatures": {
+                "jsx": true
+            }
+        },
+        "rules": {
+        "quotes": [
+            2,
+            "single"
+        ],
+        "linebreak-style": [
+            2,
+            "unix"
+        ],
+        "semi": [
+            2,
+            "always"
+        ],
+        "no-console": 0
+        }
+    },
+    // Controls the rendering size of tabs in characters. Accepted values: "auto", 2, 4, 6, etc. If set to "auto", the value will be guessed when a file is opened.
+    "editor.tabSize": 2,
+    // Controls if the editor will insert spaces for tabs. Accepted values:  "auto", true, false. If set to "auto", the value will be guessed when a file is opened.
+    "editor.insertSpaces": true,
+    // Controls whether the editor should render whitespace characters
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "vim.disableAnnoyingNeovimMessage": true,
+    "guides.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "sublimeTextKeymap.promptV3Features": true
+}
